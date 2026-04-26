@@ -1,0 +1,22 @@
+/* fonts */
+@import url("https://fonts.googleapis.com/css2?family=Bungee&family=Rubik+Wet+Paint&family=Oswald&display=swap");
+
+/* Tailwind */
+@import "tailwindcss";
+
+/* Import Fonts */
+
+@font-face {
+  font-family: "PiecesNfi";
+  src: url("../assets/fonts/PiecesNfi-LrOn.ttf");
+}
+
+@font-face {
+  font-family: "AttackGraffiti";
+  src: url("../assets/fonts/AttackGraffiti-3zRBM.ttf");
+}
+
+@font-face {
+  font-family: "Shotengai";
+  src: url("../assets/fonts/ShotengaiDemoRegular-pgErK.otf");
+}
